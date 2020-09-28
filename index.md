@@ -5,8 +5,8 @@ layout: default
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
-[Link to COVID](./COVID.html).
-[Link to COVID slides](./COVID.slides.html).
+[Link to COVID](COVID.html).
+[Link to COVID slides](COVID.slides.html).
 
 
 There should be whitespace between paragraphs.
