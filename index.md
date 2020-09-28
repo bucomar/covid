@@ -39,7 +39,6 @@ var fun = function lang(l) {
 def negyzet(x):
   return x*x
 print(negyzet(3))
-end
 ```
 
 
