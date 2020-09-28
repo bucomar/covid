@@ -8,7 +8,7 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 * [Link to COVID](COVID.html).
 
-* [Link to COVID slides](COVID.slides.html).
+<!-- * [Link to COVID slides](COVID.slides.html). -->
 
 
 There should be whitespace between paragraphs.
@@ -34,6 +34,14 @@ var fun = function lang(l) {
   return true;
 }
 ```
+```python
+# Python code with syntax highlighting
+def negyzet(x):
+  return x*x
+print(negyzet(3))
+end
+```
+
 
 ```ruby
 # Ruby code with syntax highlighting
