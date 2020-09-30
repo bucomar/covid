@@ -5,10 +5,10 @@ layout: default
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 * [Link to another page](./another-page.html).
-
+*
 * [Link to COVID](COVID.html).
 
-* [Valami Notebookféle] (./valami_notebook.md)
+* [Valami Notebookféle] (content/valami_notebook.md)
 <!-- * [Link to COVID slides](COVID.slides.html). -->
 
 <script src="https://gist.github.com/bucomar/66993a95375e17ad828dc0c0b803e277.js"></script>
