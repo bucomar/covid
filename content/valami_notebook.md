@@ -22,4 +22,4 @@ print('Szevasz Python')
 
 _yay_
 
-[back](..)
+[back](.//)
