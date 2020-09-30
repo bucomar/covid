@@ -5,9 +5,8 @@ layout: default
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 * [Link to another page](./another-page.html).
-*
+* [Legyen ez is egy link](www.atom.io)
 * [Link to COVID](COVID.html).
-
 * [Valami Notebookféle](content/valami_notebook.md)
 <!-- * [Link to COVID slides](COVID.slides.html). -->
 
