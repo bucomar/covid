@@ -8,6 +8,7 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 * [Legyen ez is egy link](www.atom.io)
 * [Link to COVID](COVID.html).
 * [Valami Notebookféle](content/valami_notebook.md)
+* [H2 notebook](H2_notebook.md)
 <!-- * [Link to COVID slides](COVID.slides.html). -->
 
 <script src="https://gist.github.com/bucomar/66993a95375e17ad828dc0c0b803e277.js"></script>
