@@ -3,3 +3,5 @@ description: Learning Datascience
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
+plugins:
+  - jekyll-jupyter-notebook
